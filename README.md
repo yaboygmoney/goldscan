@@ -3,7 +3,7 @@
 ## Overview
 This script automates the static analysis process for potential malware samples. It will take follow-on analysis actions based on the output of earlier analysis and attempt to deobfuscate as much as it can for you. To ensure that the script is able to complete without issue, it's recommended to increase the RAM allocated to the VM to 8GB.
 
-![goldscan](../assets/goldscan.png)
+![goldscan](assets/goldscan.png)
 
 ## Quickstart
 
